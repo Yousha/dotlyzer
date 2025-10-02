@@ -1,6 +1,6 @@
 # Dotlyzer - .NET Process Analyzer
 
-CLI & interactive based process analyzer and diagnostic tool. For CLI/headless based servers.
+CLI & interactive based process analyzer and diagnostic tool. For CLI/headless based servers, open-source, no false-report & no malware.
 
 ## Features
 

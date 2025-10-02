@@ -20,6 +20,7 @@
     <RepositoryUrl>https://github.com/yousha/dotlyzer</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <BaseOutputPath>Artifacts</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
