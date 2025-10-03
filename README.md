@@ -2,9 +2,9 @@
 
 CLI & interactive based process analyzer and diagnostic tool. For CLI/headless based servers, open-source, no false-report & no malware.
 
-[![CodeQL](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql)
+[![Dependabot Updates](https://github.com/Yousha/dotlyzer/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Yousha/dotlyzer/actions/workflows/dependabot/dependabot-updates) [![CodeQL](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql)
 
-![Logo](resources/images/logo_64x64.png)
+![Logo](Resources/Images/Logo/Logo_128x128.png)
 
 ## Features
 
@@ -22,11 +22,16 @@ CLI & interactive based process analyzer and diagnostic tool. For CLI/headless b
 - Windows OS (all Windows servers/clients)
 - Administrator privileges for full feature access
 
+## Screenshots
+
+![1](Resources/Images/Screenshots/1.png) ![2](Resources/Images/Screenshots/2.png) ![3](Resources/Images/Screenshots/3.png) ![4](Resources/Images/Screenshots/4.png)
+![5](Resources/Images/Screenshots/5.png) ![6](Resources/Images/Screenshots/6.png) ![7](Resources/Images/Screenshots/7.png)
+
 ## Installation
 
 ### Download
 
-1. Download archived package.
+1. Download latest [archived](https://github.com/Yousha/dotlyzer/releases) package.
 2. Extract package.
 3. Execute the application.
 
