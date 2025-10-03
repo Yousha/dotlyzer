@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "nuget"
-    directory: "/SimpleDotNetObfuscator"
+    directory: "/Dotlyzer"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 20

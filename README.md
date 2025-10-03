@@ -1,6 +1,10 @@
-# Dotlyzer - .NET Process Analyzer
+# [Dotlyzer](https://github.com/yousha/dotlyzer/)
 
 CLI & interactive based process analyzer and diagnostic tool. For CLI/headless based servers, open-source, no false-report & no malware.
+
+[![CodeQL](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Yousha/dotlyzer/actions/workflows/github-code-scanning/codeql)
+
+![Logo](resources/images/logo_64x64.png)
 
 ## Features
 
@@ -54,7 +58,7 @@ dotnet publish -c Release -r win-x64 --self-contained
 
 ## Usage
 
-1. Launch the application
+1. Run the application
 2. Choose from the main menu:
    - List Processes: View all running processes
    - Inspect Process: Analyze a specific process by PID
@@ -72,15 +76,25 @@ dotnet publish -c Release -r win-x64 --self-contained
 
 ## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+Contributions are welcome! Please follow these steps:
+
+1. Fork repository.
+2. Create a new branch for your feature or bugfix.
+3. Submit a pull request with a detailed description of your changes.
+
+For more details see [CONTRIBUTING.txt](CONTRIBUTING.txt).
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.txt](CODE_OF_CONDUCT.txt) file.
+
+## DCO
+
+See [DCO.txt](DCO.txt) file.
 
 ## License
 
-This project is licensed under the **GPL-3.0**. See the [LICENSE](LICENSE) file for details.
+This open-source software is distributed under the GPL-3.0 license. See [LICENSE](LICENSE) file.
 
 ## Contact
 
